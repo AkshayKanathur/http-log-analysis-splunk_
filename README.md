@@ -1,4 +1,4 @@
-# http-log-analysis-splunk_
+## HTTP Log Analysis using Splunk
 This project simulates analyzing a sample HTTP log to identify anomalies, web traffic patterns, etc...
 
 ## Tools Used
